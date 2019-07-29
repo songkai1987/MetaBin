@@ -79,7 +79,7 @@ The usage is:
 
 > python Markov_Construction.py <input-path>/input.fa <output-path>/Markov_model_order9.txt
   
-For example, one can use the test fasta file as following:
+For example, one can use the test fasta file "test-sequences.fasta" in the directory of “./test_data/” as following:
 
 > python Markov_Construction.py ./test_data/input-sequences.fasta ./Trained_Models/input-sequences.Markov_model.order9.txt
 
